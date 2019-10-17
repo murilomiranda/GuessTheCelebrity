@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Guess The Celebrity</string>
+    <string name="celebrity_photo">celebrity photo</string>
+    <string name="button1">Valdir Dantas</string>
+    <string name="button2">Ivania Souza</string>
+    <string name="button3">Marcia Geane</string>
+    <string name="button4">Danielly Miranda</string>
+</resources>
